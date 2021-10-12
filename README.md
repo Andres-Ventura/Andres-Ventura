@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Andres-Ventura
-- 👀 I’m interested in learning all about software developing
-- 🌱 I’m currently learning both the front end and back end of a users experience
-- 💞️ I’m looking to collaborate on anything that will challenge me and allow me to learn more
-- 📫 How to reach me by my personal email  ------>  andres.venturase@gmail.com
+<a href="https://github.com/andres-ventura/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=vue-dark" />
+</a>
+<br>
+<a href="https://github.com/andres-ventura/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Tower-Stack&theme=vue-dark" />
+</a>
 
-<!---
-Andres-Ventura/Andres-Ventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/andres-ventura/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Catch-Game&theme=vue-dark" />
+</a>
+<br>
+<a href="https://github.com/andres-ventura/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Drawing-App&theme=vue-dark" />
+</a>
+
+<a href="https://github.com/andres-ventura/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=ripple-effect&theme=vue-dark" />
+</a>
+  
+<br>
+<a href="https://github.com/andres-ventura/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-ventura&theme=vue-dark" />
+ </a>
