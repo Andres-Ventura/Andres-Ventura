@@ -1,4 +1,4 @@
-<!-- <a href="https://github.com/andres-ventura/github-readme-stats">
+<a href="https://github.com/andres-ventura/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=vue-dark" />
 </a>
 <br>
@@ -22,5 +22,5 @@
 <a href="https://github.com/andres-ventura/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-ventura&theme=vue-dark" />
  </a>
- -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=radical)
+<!-- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=radical) -->
