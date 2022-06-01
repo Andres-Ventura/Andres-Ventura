@@ -1,6 +1,6 @@
-<a href="https://github.com/andres-ventura/github-readme-stats">
+<!-- <a href="https://github.com/andres-ventura/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=vue-dark" />
-</a>
+</a> -->
 <!-- <br>
 <a href="https://github.com/andres-ventura/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Tower-Stack&theme=vue-dark" />
