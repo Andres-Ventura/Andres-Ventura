@@ -27,7 +27,7 @@
 <h2 align="center"><img src="/img/wave.gif" width="30px"> Hello <img src="/img/wave.gif" width="30px"></h2>
 <!-- Image -->
 <p align="center">
-<img alt="where'd mario go?" src="/img/coin.gif" height="200px"></p>
+<img alt="where'd mario go?" src="/img/coin.gif" height="300px" width="350px"></p>
 
 <!-- Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=Andres-Ventura.Andres-Ventura"/> 
