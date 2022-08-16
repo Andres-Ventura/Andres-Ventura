@@ -30,7 +30,7 @@
 <img alt="where'd mario go?" src="/img/coin.gif" height="300px" width="350px"></p>
 
 <!-- Badge -->
-<img alt="Too many requests :( "src="https://visitor-badge.glitch.me/badge?page_id=Andres-Ventura.Andres-Ventura"/> 
+<img alt="Too many requests :(" src="https://visitor-badge.glitch.me/badge?page_id=Andres-Ventura.Andres-Ventura"/> 
 
 <!-- Info -->
 <table><tr >
