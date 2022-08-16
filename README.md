@@ -27,7 +27,7 @@
 <h2 align="center"><img src="/img/wave.gif" width="30px"> Hello <img src="/img/wave.gif" width="30px"></h2>
 <!-- Image -->
 <p align="center">
-<img alt="where'd mario go?" src="/img/coin.gif" height="400px" width="450px"></p>
+<img alt="where'd mario go?" src="/img/coin.gif" height="300px" width="350px"></p>
 
 <!-- Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=Andres-Ventura.Andres-Ventura"/> 
@@ -101,7 +101,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>  
-<h2 align="center"><img alt="mc_of" src="/img/mc.gif" height="400px" width="450"></h2>
+<h2 align="center"><img alt="mc_of" src="/img/mc.gif" height="300px" width="350"></h2>
 <!-- <td width="50%">
 <a href=""><img alt="Build" src="">
 </a>
