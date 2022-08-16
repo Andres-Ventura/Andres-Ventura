@@ -91,7 +91,7 @@
 <!-- Stats -->
 <h1 align="center">
  <img alt="Its a me Mario" src="/img/mario.gif" height="100px"> 
- <img alt="Its a me Mario" src="/img/dk.png" height="100px">
+ <img alt="Its a me Mario" src="/img/dk.gif" height="100px">
 </h1>
 <table><tr>
 <td width="40%">
