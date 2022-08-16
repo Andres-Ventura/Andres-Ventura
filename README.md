@@ -85,18 +85,7 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-black?&logo=git&color=151515&logoColor=79ff97&cacheSeconds=86400">
 </td>
 <!-- <td valign="top" width="44%">
-<h2 align="center">Activity</h2>
-START_SECTION:activity
 
-<!-- 💪 Opened [#700](https://github.com/neetcode-gh/leetcode/pull/700)-[leetcode](https://github.com/neetcode-gh/leetcode)</br> -->
-<!-- 🗣 Posted [Web](https://github.com/Andres-Ventura/Portfolio)-[Citro](https://github.com/Andres-Ventura/Portfolio)</br> -->
-<!-- 💪 Opened [#686](https://github.com/neetcode-gh/leetcode/pull/686)-[leetcode](https://github.com/neetcode-gh/leetcode)</br>
-💪 Opened [#560](https://github.com/neetcode-gh/leetcode/pull/560)-[leetcode](https://github.com/neetcode-gh/leetcode)</br> -->
-<!--END_SECTION:activity-->
-<!-- BLOG-POST-LIST:START -->
-<!-- 💬 Blogged [Kali Linux on iPad](https://dev.to/aakhtar3/kali-linux-on-ipad-54gc) </br>
-💬 Blogged [Dynamic and Abstract Nginx](https://dev.to/aakhtar3/dynamic-and-abstract-nginx-497b) </br>
-💬 Blogged [Which UUID version?](https://dev.to/aakhtar3/which-uuid-version-2bb2) </br>BLOG-POST-LIST:END -->
 <!-- </td>  -->
 </tr></table>
 <!-- Stats -->
@@ -112,8 +101,6 @@ START_SECTION:activity
 <img src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>
-<!-- Working on -->
-<h2 align="center"><img alt="u/byronius_j" src="/img/mc.gif" height="200px"></h2>
 <table><tr>
 <!-- <td width="50%">
 <a href=""><img alt="Build" src="">
