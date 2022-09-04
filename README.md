@@ -101,7 +101,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
 </tr></table>  
-<h2 align="center"><img alt="mc_of" src="/img/mc.gif" height="300px" width="350"></h2>
+<h2 align="center"><img alt="mc_of" src="/img/giphy.gif" width="70%"></h2>
 <!-- <td width="50%">
 <a href=""><img alt="Build" src="">
 </a>
