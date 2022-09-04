@@ -95,7 +95,7 @@
 </h1>
 <table><tr>
 <td width="40%">
-<a href="https://github.com/Andres-Ventura/leetcode-Study-Guide"><img alt="Build" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=leetcode-Study-Guide&theme=dark&cache_seconds=43200">
+<a href="https://github.com/Andres-Ventura/Portfolio"><img alt="Portfolio was suppose to be here" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Portfolio&theme=dark&cache_seconds=43200">
 </td>
 <td width="55%">
 <img src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=dark&show_icons=true&cache_seconds=43200"/>
