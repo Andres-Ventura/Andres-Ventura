@@ -93,14 +93,16 @@
  <img alt="Its a me Mario" src="/img/mario.gif" height="100px"> 
  <img alt="Its a me Mario" src="/img/dk.gif" height="100px">
 </h1>
-<table><tr>
-<td width="40%">
-<a href="https://github.com/Andres-Ventura/Portfolio"><img alt="Portfolio was suppose to be here" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Portfolio&theme=dark&cache_seconds=43200&description=guessing">
+<table>
+<tr>
+<td width="50%">
+<img alt="Repo was suppose to be here" src="https://github-readme-stats.vercel.app/api/pin/?username=andres-ventura&repo=Master-Shifu&theme=dark&cache_seconds=43200&description=guessing"><a href="https://github.com/Andres-Ventura/Master-Shifu">
 </td>
-<td width="55%">
+<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=andres-ventura&show_icons=true&theme=dark&show_icons=true&cache_seconds=43200"/>
 </td>
-</tr></table>  
+</tr>
+</table>  
 <h2 align="center"><img alt="mc_of" src="/img/giphy.gif" width="70%"></h2>
 <!-- <td width="50%">
 <a href=""><img alt="Build" src="">
