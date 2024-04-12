@@ -54,36 +54,29 @@
 <td valign="top" width="34%">
 <h2 align="center">Toolbox</h2>
 
-<!-- Web -->
-<img alt="HTML" src="https://img.shields.io/badge/HTML-black?&logo=html5&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-black?&logo=css3&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?&logo=javascript&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Express" src="https://img.shields.io/badge/Express-black?&logo=express&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Canva" src="https://img.shields.io/badge/Canva-black?&logo=canva&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-black?&logo=bootstrap&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="jQuery" src="https://img.shields.io/badge/JQuery-black?&logo=jquery&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Figma" src="https://img.shields.io/badge/Figma-black?&logo=figma&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-black?&logo=heroku&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<!-- App -->
+<img alt="HTML/CSS" src="https://img.shields.io/badge/HTML/CSS-black?&logo=html5&logoColor=79ff97&cacheSeconds=86400">
+<!-- Additional for TypeScript -->
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?&logo=typescript&color=151515&logoColor=79ff97&cacheSeconds=86400">
+
 <img alt="Node" src="https://img.shields.io/badge/Node-black?&logo=node.js&color=151515&logoColor=79ff97&cacheSeconds=86400">
 <img alt="Python" src="https://img.shields.io/badge/Python-black?&logo=python&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<!-- Adding Java -->
+<img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97&cacheSeconds=86400">
 
-
-<!-- <img alt="Java" src="https://img.shields.io/badge/Java-black?&logo=java&color=151515&logoColor=79ff97&cacheSeconds=86400"> -->
-<!-- Data -->
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?&logo=mongodb&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-black?&logo=neo4j&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<!-- Removed Neo4j since it's not listed in your skills -->
 
-<!-- DevOps -->
 <img alt="AWS" src="https://img.shields.io/badge/AWS-black?&logo=amazon-aws&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?&logo=jenkins&color=151515&logoColor=79ff97&cacheSeconds=86400">
-<!-- OS -->
-<img alt="Apple" src="https://img.shields.io/badge/OSX-black?&logo=apple&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<!-- Adding Kubernetes -->
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?&logo=kubernetes&color=151515&logoColor=79ff97&cacheSeconds=86400">
 
-<!-- Version Control -->
-<img alt="Git" src="https://img.shields.io/badge/Git-black?&logo=git&color=151515&logoColor=79ff97&cacheSeconds=86400">
-</td>
+<!-- Additional technologies not initially included -->
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-black?&logo=apache-spark&color=151515&logoColor=79ff97&cacheSeconds=86400">
+<img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-black?&logo=apache-hadoop&color=151515&logoColor=79ff97&cacheSeconds=86400">
+
+
 <!-- <td valign="top" width="44%">
 
 <!-- </td>  -->
