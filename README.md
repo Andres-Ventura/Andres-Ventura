@@ -24,7 +24,7 @@
  </a>
  -->
 <!-- Hello -->
-<h2 align="center"><img src="/img/wave.gif" width="30px"> Hello <img src="/img/wave.gif" width="30px"></h2>
+<h2 align="center"><img src="/img/wave.gif" width="30px"> Private Commits <img src="/img/wave.gif" width="30px"></h2>
 <!-- Image -->
 <p align="center">
 <img alt="where'd mario go?" src="/img/mario-game.gif" height="250px"></p>
